@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there
 
-<!--
-**markusbegerow/markusbegerow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I am working on
+I'm currently working on different projects
 
-Here are some ideas to get you started:
+### How to reach me
+Send me an email or get in touch with me via Twitter: [@MarkusBegerow](https://twitter.com/markusbegerow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Donations
+I will gladly accept donations, either via Bitcoin or DigiByte.
+
+Bitcoin: `3HtjsrWz6jjzFvybaD3xiVxjimkuJ1K4QE`
+
+DigiByte: `DDbENLRmL1wrVNPdeAkQ8FggbJwPjk8ZQA`
+
+Monero: `8AQAs4ztpJrLrGQCdhgMqR6PFYPa2WvNAieQv2cVcxsLDmvhKvHCiqGaYsM8dxGc73DXbjtYXpsaFXVVFryQz46mQcHdrnd`
