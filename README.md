@@ -7,7 +7,7 @@ I'm currently working on different projects
 Send me an email or get in touch with me via Twitter: [@MarkusBegerow](https://twitter.com/markusbegerow)
 
 ### Donations
-I will gladly accept donations, either via Bitcoin or DigiByte.
+I will gladly accept donations, either via Bitcoin or DigiByte and sometimes Monero - what else ;)
 
 Bitcoin: `3HtjsrWz6jjzFvybaD3xiVxjimkuJ1K4QE`
 
