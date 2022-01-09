@@ -11,6 +11,6 @@ I will gladly accept donations, either via Bitcoin or DigiByte and sometimes Mon
 
 Bitcoin: `3HtjsrWz6jjzFvybaD3xiVxjimkuJ1K4QE`
 
-DigiByte: `DDbENLRmL1wrVNPdeAkQ8FggbJwPjk8ZQA`
+DigiByte: `dgb1qqgcf4uq0ndht0g95uekfnkdeluqc0amdajalsa`
 
 Monero: `8AQAs4ztpJrLrGQCdhgMqR6PFYPa2WvNAieQv2cVcxsLDmvhKvHCiqGaYsM8dxGc73DXbjtYXpsaFXVVFryQz46mQcHdrnd`
