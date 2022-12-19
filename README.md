@@ -9,7 +9,7 @@ Send me an email or get in touch with me via Twitter: [@MarkusBegerow](https://t
 ### Donations
 I will gladly accept donations, either via Bitcoin or DigiByte and sometimes Monero - what else ;)
 
-Bitcoin: `3HtjsrWz6jjzFvybaD3xiVxjimkuJ1K4QE`
+Bitcoin: `bc1q4vfm53ajythsfnzuly6k2m9tgcq7edfrr3e7m0`
 
 DigiByte: `dgb1qqgcf4uq0ndht0g95uekfnkdeluqc0amdajalsa`
 
