@@ -4,7 +4,7 @@
 I'm currently working on different projects
 
 ### How to reach me
-Send me an email or get in touch with me via Twitter: [@MarkusBegerow](https://twitter.com/markusbegerow)
+Send me an email or get in touch with me via Linktr.ee: https://linktr.ee/markusbegerow
 
 ### Donations
 I will gladly accept donations, either via Bitcoin or DigiByte and sometimes Monero - what else ;)
