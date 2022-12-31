@@ -1,7 +1,7 @@
 # Hi there
 
 ### What I am working on
-I'm currently working on different projects around Databases, DLT and WordPress.
+I'm currently working on different projects around Databases, WordPress and DLT.
 
 ### How to reach me
 Send me an email or get in touch with me via Linktr.ee: https://linktr.ee/markusbegerow
