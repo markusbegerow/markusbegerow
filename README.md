@@ -1,7 +1,7 @@
 # Hi there
 
 ### What I am working on
-I help start-ups, enterprises and organisations to unlock the strategic potential of data, artificial intelligence and blockchain technologies. With over 15 years' experience in strategic consultancy, he regularly analyses the digital business models and technological maturity of target companies, identifying opportunities to modernise IT architectures, expand data and AI capabilities, and increase long-term business value.
+I help start-ups, enterprises and organisations to unlock the strategic potential of data, artificial intelligence and blockchain technologies. With over 15 years' experience in strategic consultancy, I regularly analyses the digital business models and technological maturity of target companies, identifying opportunities to modernise IT architectures, expand data and AI capabilities, and increase long-term business value.
 
 ### How to reach me
 Send me an email or get in touch with me via Linktr.ee: https://linktr.ee/markusbegerow
